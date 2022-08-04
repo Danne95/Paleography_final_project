@@ -26,7 +26,7 @@ Running:
 		*streamlit uses port 8501 by default, make sure it is open.
 		it is also possible to choose a diffrent port by adding '--server.port=[number]' at the end of the line.
 	
-		*to keep the application running after closing the interface use command 'nohup' at the beginning of the line. 
+		*to keep the application running after closing the interface use 'nohup' at the beginning of the line. 
 		to terminate the application use 'ps -aux' to find the process id,
 		then use kill -9 [PID].
 		
