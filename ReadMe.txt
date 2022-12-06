@@ -1,3 +1,4 @@
+**Preview youtube video - https://www.youtube.com/watch?v=1LFgAhPLb1c
 
 Paleography Project:
 Instructions and help:
